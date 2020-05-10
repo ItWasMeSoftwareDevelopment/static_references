@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace StaticReferences
+namespace ItWasMe.StaticReferences
 {
     public static partial class References
     {

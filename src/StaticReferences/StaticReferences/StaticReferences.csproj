@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>DominatorHouse.StaticReferences</AssemblyName>
-    <RootNamespace>DominatorHouse.StaticReferences</RootNamespace>
+    <AssemblyName>ItWasMe.StaticReferences</AssemblyName>
+    <RootNamespace>ItWasMe.StaticReferences</RootNamespace>
     <Version>1.0.1</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
